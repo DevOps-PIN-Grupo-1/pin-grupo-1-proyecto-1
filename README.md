@@ -25,7 +25,6 @@ El proyecto incluye:
 
 * Arevalo Boggio, Pablo
 * Leiter, Ezequiel
-* Marzialetti, Juan Antonio
 * Rocco, Francisco
 * Zanone, Pablo Andrés
 
